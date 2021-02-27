@@ -1,5 +1,5 @@
 import React from 'react';
-
+import styles from './style.css';
 
 class RatingsAndReviews extends React.Component {
   constructor(props) {
@@ -7,7 +7,7 @@ class RatingsAndReviews extends React.Component {
   }
   render() {
     return (
-      <div>
+      <div className={styles.test}>
         THIS IS THE RATINGS AND REVIEWS MODULE.
         Testing.
       </div>
