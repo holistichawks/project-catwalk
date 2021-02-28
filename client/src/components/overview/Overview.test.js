@@ -4,7 +4,7 @@ import Overview from './Overview.jsx';
 
 describe('Overview', () => {
   it('should render correctly with no props', () => {
-    const component = shallow(<Overview/>);
+    const component = shallow(<Overview />);
 
     expect(component.find('div').text()).toContain('Overview');
   });

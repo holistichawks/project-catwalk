@@ -1,5 +1,5 @@
 import React from 'react';
-import styles from './style.css'
+import styles from './style.css';
 
 class Overview extends React.Component {
   constructor(props) {
