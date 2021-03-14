@@ -16,24 +16,25 @@ This project modernizes a customer's retail web portal by designing a new user i
 ### Overview
 This module provides an overview of the product, including product title, price, description, features, styles, sizes, and quantity that render dynamically based on the selected product.
 
-Browser          |  Mobile
-:-------------------------:|:-------------------------:
-<img src="http://g.recordit.co/zF3IwIRM0A.gif" width = '600px'/> | <img src="http://g.recordit.co/RLZ8Ak894L.gif" width = '400px'/>
+Browser
+<img src="https://github.com/cleung0112/ReadMeGifhy/blob/master/aLvVxu5ZQm.gif?raw=true" width = '600px'/>
+Mobile
+<img src="http://g.recordit.co/RLZ8Ak894L.gif" width = '300px' />
 
 #### Feature : Expanded View with Zoom and Pan
 - Click on an image brings user to the expanded view
 - In expanded view, user can click on an image to pan over zoom image
-<img src="http://g.recordit.co/TiWlCBw4iN.gif" width = '500px'/>
+<img src="https://github.com/cleung0112/ReadMeGifhy/blob/master/TiWlCBw4iN.gif?raw=true" width = '500px'/>
 
 #### Feature : Style Selector
 - Select a new style updates the available sizes and quantity
 - A new style renders a new set of product images and thumbnails
-<img src="http://g.recordit.co/gXbQDTIDaX.gif" width = '400px'/>
+<img src="http://g.recordit.co/gXbQDTIDaX.gif" width = '500px'/>
 
 #### Feature : Add to Cart
 - A size must be selected in order to add an item to cart
 - The total number of items in cart is updated once user clicks add to cart
-<img src="http://g.recordit.co/eXxHsFHY2F.gif" width = '400px'/>
+<img src="https://github.com/cleung0112/ReadMeGifhy/blob/master/eXxHsFHY2F.gif?raw=true" width = '500px'/>
 
 
 ### Related Items And Comparison
