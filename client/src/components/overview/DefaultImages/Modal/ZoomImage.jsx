@@ -6,8 +6,6 @@ class ZoomImage extends React.Component {
     super(props);
     this.state = {
       backgroundImage: `url(${props.src})`,
-
-      // For positioning the background image, initially it has no change
       backgroundPosition: '0% 0%',
     };
     this.handleMouseMove = this.handleMouseMove.bind(this);
